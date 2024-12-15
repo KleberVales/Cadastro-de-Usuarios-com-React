@@ -36,3 +36,6 @@ src/
 - Implementar autenticação de usuários.
 - Adicionar integração com banco de dados.
 - Criar uma interface para listar os usuários cadastrados.
+
+### 🧑‍💻 Contribuindo
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
