@@ -26,3 +26,8 @@ src/
 ├── styles.css           # Estilo global
 
 ```
+### 🔄 Fluxo de Cadastro
+1. O usuário preenche o formulário com nome, e-mail e outras informações.
+2. Após clicar no botão de "Cadastrar", os dados são validados.
+3. Os dados são enviados para o backend via uma requisição HTTP (POST).
+4. O backend responde com o status da operação, e a aplicação exibe uma mensagem correspondente.
