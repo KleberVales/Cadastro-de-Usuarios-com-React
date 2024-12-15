@@ -13,3 +13,16 @@ Este projeto é uma aplicação web desenvolvida em React para cadastrar usuári
 - Outras: CSS/Bootstrap/Tailwind para estilização (se aplicável)
 
 ### 📂 Estrutura do Projeto
+
+``` plaintext
+src/
+├── components/
+│   ├── Form.jsx         # Componente do formulário de cadastro
+│   ├── Notification.jsx # Componente para exibir mensagens
+├── services/
+│   ├── api.js           # Configuração do Axios para comunicação com o backend
+├── App.jsx              # Componente principal
+├── index.js             # Entrada do aplicativo
+├── styles.css           # Estilo global
+
+```
