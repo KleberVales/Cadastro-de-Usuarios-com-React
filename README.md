@@ -10,3 +10,4 @@ Este projeto é uma aplicação web desenvolvida em React para cadastrar usuári
 ### 🛠️ Tecnologias Utilizadas
 - Front-end: React, React Hooks, Axios
 - Back-end: Node.js, Express (ou outra tecnologia utilizada)
+- Outras: CSS/Bootstrap/Tailwind para estilização (se aplicável)
