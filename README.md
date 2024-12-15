@@ -44,6 +44,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 Este projeto está licenciado sob a MIT License.
 
 ### 📞 Contato
-Nome: Kleber Vales
-E-mail: ksd.campos@gmail.com
+Nome: Kleber Vales\
+E-mail: ksd.campos@gmail.com\
 LinkedIn: www.linkedin.com/in/klebervales
