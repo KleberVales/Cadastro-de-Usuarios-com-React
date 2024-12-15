@@ -46,4 +46,4 @@ Este projeto está licenciado sob a MIT License.
 ### 📞 Contato
 Nome: Kleber Vales
 E-mail: ksd.campos@gmail.com
-LinkedIn: seu-linkedin
+LinkedIn: www.linkedin.com/in/klebervales
