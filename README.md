@@ -8,3 +8,4 @@ Este projeto é uma aplicação web desenvolvida em React para cadastrar usuári
 - Exibição de mensagens de sucesso ou erro após o envio.
 
 ### 🛠️ Tecnologias Utilizadas
+- Front-end: React, React Hooks, Axios
