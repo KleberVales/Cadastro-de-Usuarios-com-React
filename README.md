@@ -6,3 +6,5 @@ Este projeto é uma aplicação web desenvolvida em React para cadastrar usuári
 - Cadastro de novos usuários com validação de campos.
 - Envio das informações para o backend via API.
 - Exibição de mensagens de sucesso ou erro após o envio.
+
+### 🛠️ Tecnologias Utilizadas
